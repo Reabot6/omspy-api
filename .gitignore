@@ -1,0 +1,44 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Django
+*.log
+db.sqlite3
+local_settings.py
+
+# Environment
+.env
+.env.*
+!dot.env.default
+.venv/
+venv/
+env/
+
+# Project-specific
+config.py
+config.py.*
+!config.py.default
+media/*
+!media/.dummy
+data/*
+!data/.dummy
+static/*
+!static/.dummy
+log/*
+!log/.dummy
+
+# Tools
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
