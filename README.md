@@ -646,9 +646,9 @@ See [`LICENSE`](LICENSE) for the complete license text.
 
 **SFG is a technology studio that builds software, AI systems, automations, and digital products for businesses.**
 
-omspy-api is part of our effort to make useful backend infrastructure available to the wider developer community.
+omspy-api is part of my  effort to make useful backend infrastructure available to the wider developer community.
 
-We build technology for real business problems, and we believe useful foundations should be reusable.
+i build technology for real business problems, and i believe useful foundations should be reusable.
 
 🌐 **Website:** [seofg.xyz](https://seofg.xyz)
 💻 **GitHub:** [github.com/reabot6](https://github.com/reabot6)
