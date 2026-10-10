@@ -423,7 +423,7 @@ omspy-api/
 └── README.md
 ```
 
-*This is a logical representation of the documented structure. The actual repository may contain additional files or use a different module layout.*
+**
 
 ### Why This Structure?
 
@@ -506,7 +506,7 @@ Common configuration categories include:
 | Security          | HTTPS, cookies, trusted origins, and related settings |
 | Docker            | Service configuration and port mapping                |
 
-The actual environment variable names depend on `config/settings.py` and the project's configuration conventions.
+
 
 **Never commit production secrets or a populated `.env` file.**
 
@@ -661,6 +661,6 @@ i build technology for real business problems, and i believe useful foundations 
 
 **omspy-api — A reusable foundation for your next Django backend.**
 
-<sub>Built by Reabot6 · Open-sourced by SFG</sub>
+<sub>Built by Reabot6 · Open-sourced from SFG</sub>
 
 </div>
